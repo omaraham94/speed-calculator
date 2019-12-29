@@ -20,3 +20,25 @@
 .App-link {
   color: #09d3ac;
 }
+
+.container {
+  display: flex; flex-direction: row; border: 1px solid grey; width: 400px; height: 300px; padding: 10px; align-items: center
+}
+
+.subContainer {
+  display: flex; flex-direction: column
+}
+
+.divider {
+  height: 1px; background-color: grey; width: 200px; margin-top: 20px
+}
+
+.padding10 {padding: 10px}
+
+.margin20 {margin-top: 20px}
+
+.speedContainer {display: flex; flex-direction: row}
+
+.marginLeft5 {margin-left: 5px}
+
+.padding20 {padding: 20px}
